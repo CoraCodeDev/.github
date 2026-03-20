@@ -8,7 +8,7 @@ Building things - products, tools, and experiments.
 
 ## What We Do
 
-We create software that helps people - from developer tools to consumer products. Some projects use AI, some don't. We build what we find interesting.
+We create software that helps people - developer tools, and whatever else we find interesting. Some projects use AI, some don't.
 
 ## Public Projects
 
@@ -16,13 +16,12 @@ We create software that helps people - from developer tools to consumer products
 - [joplin-cli-skill](https://github.com/CoraCodeDev/joplin-cli-skill) - Interact with Joplin notes via CLI
 - [tado-skill](https://github.com/CoraCodeDev/tado-skill) - Control your Tado smart thermostat
 
-### Products
-- [VideoQrd](https://github.com/CoraCodeDev/videoqrd) - QR codes for videos
+*(More coming soon)*
 
 ## Get In Touch
 
 - 🌐 [coracode.co.uk](https://coracode.co.uk)
-- 📧 [dave@coracode.co.uk](mailto:dave@coracode.co.uk)
+- 📧 [hello@coracode.co.uk](mailto:hello@coracode.co.uk)
 
 ---
 
