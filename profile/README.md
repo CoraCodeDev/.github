@@ -1,28 +1,21 @@
-<p align="center">
-  <img src="logo.svg" alt="CoraCode" width="150"/>
-</p>
-
 # CoraCode
 
-Building things - products, tools, and experiments.
-
-## What We Do
-
-We create software that helps people - developer tools, and whatever else we find interesting. Some projects use AI, some don't.
+Building things — products, tools, and experiments. Mostly useful, occasionally weird.
 
 ## Public Projects
 
-### OpenClaw Skills
-- [joplin-cli-skill](https://github.com/CoraCodeDev/joplin-cli-skill) - Interact with Joplin notes via CLI
-- [tado-skill](https://github.com/CoraCodeDev/tado-skill) - Control your Tado smart thermostat
+| Project | What It Is |
+|---|---|
+| [oc-session-viewer](https://github.com/CoraCodeDev/oc-session-viewer) | Lightweight session viewer for OpenClaw — fast server-side JSONL viewer with pagination |
+| [PdfSplitter](https://github.com/CoraCodeDev/PdfSplitter) | .NET MAUI desktop app for splitting PDF files |
+| [joplin-cli-skill](https://github.com/CoraCodeDev/joplin-cli-skill) | OpenClaw skill for interacting with Joplin notes via CLI |
+| [tado-skill](https://github.com/CoraCodeDev/tado-skill) | OpenClaw skill for controlling Tado smart thermostats |
 
-*(More coming soon)*
+## What We're About
 
-## Get In Touch
+Developer tools, AI experiments, and the occasional bit of consumer software. Some of it's open source, some of it's not — we build what interests us.
+
+## Links
 
 - 🌐 [coracode.co.uk](https://coracode.co.uk)
 - 📧 [hello@coracode.co.uk](mailto:hello@coracode.co.uk)
-
----
-
-*Building in public (when we can).*
